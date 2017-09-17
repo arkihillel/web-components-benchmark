@@ -1,0 +1,24 @@
+{
+  "name": "web-component-benchmark",
+  "version": "1.0.0",
+  "bin": {
+    "wcp": "index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hillel Arki <arki.hillel@gmail.com> (https://github.com/arkihillel)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.1",
+    "find": "^0.2.7",
+    "james-browser-launcher": "^1.3.1",
+    "ncp": "^2.0.0",
+    "nodegit": "^0.20.2",
+    "restify": "^4.0.0",
+    "shelljs": "^0.7.8"
+  }
+}
